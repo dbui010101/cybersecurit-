@@ -1,0 +1,2 @@
+For illustrative purposes, i'll use files from the world's best network intrusion detection system (nids),
+À des fins d'illustration, j'utiliserai des fichiers du meilleur système de détection d'intrusion réseau au monde (nids),
