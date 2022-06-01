@@ -8,3 +8,4 @@ snort, qui a d'abord été développé par Marty Roesch et appartient maintenant
 
 
 
+hacker challenge: using grep, nl, tail, and head
