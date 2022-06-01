@@ -9,3 +9,25 @@ snort, qui a d'abord été développé par Marty Roesch et appartient maintenant
 
 
 hacker challenge: using grep, nl, tail, and head
+
+
+Accédez à /usr/share/metasploit-framework/data/wordlists . 
+Il s'agit d'un répertoire de plusieurs listes de mots qui peuvent être 
+utilisés pour forcer brutalement les mots de passe dans divers appareils protégés 
+par mot de passe à l'aide de Metasploit, le cadre de test et de piratage le plus populaire.
+
+
+Analyzing and managing networks: using
+
+Dans de nombreuses situations, vous allez pirater quelque chose sur un réseau, 
+et un bon pirate doit savoir comment se connecter et interagir avec ce réseau. 
+Par exemple, vous devrez peut-être vous connecter à un ordinateur avec votre adresse 
+de protocole Internet (IP) masquée, ou vous devrez peut-être rediriger 
+les requêtes DNS (Domain Name System) d'une cible vers votre système ;
+
+ces types de tâches sont relativement simples mais nécessitent un peu de connaissance du réseau linux. 
+Ce chapitre vous présente quelques outils Linux essentiels pour analyser et gérer les réseaux lors de vos aventures de piratage de réseau.
+
+
+
+
